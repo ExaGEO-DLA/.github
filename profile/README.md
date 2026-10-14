@@ -1,19 +1,18 @@
+<img width="568" height="174" alt="ExaGEO logo" src="https://github.com/user-attachments/assets/dce82b16-2e3f-4be0-a6da-3e6c627a7f76" />
+
 # ExaGEO-DLA
 
 ## About ExaGEO
 
-ExaGEO is a project that brings together researchers working on environmental and geoscience problems that need exascale and high-performance computing. This organisation is the home for the code produced by the ExaGEO Doctoral Landscape Award (DLA) community.
+ExaGEO harnesses the potential of exascale computing to address global environmental challenges by linking advanced Earth system models with human impacts. Funded by UKRI’s Natural Environment Research Council (NERC), it brings together the University of Glasgow, EPCC at the University of Edinburgh and CEEDS at Lancaster University, alongside over 200 academic and industry experts. The programme will train around 80 PhD students in GPU-accelerated environmental modelling, large-scale Earth observation and Earth system applications. This GitHub organisation provides a shared space for code, tools and methods developed by the ExaGEO Doctoral Landscape Award (DLA) community, supporting collaboration and research reuse.
 
 ## Why keep all repositories in one place?
 
-- **Visibility:** one place to see what the ExaGEO community is building.
-- **Discoverability:** makes it easier to find, reuse and cite each other's work.
-- **Collaboration:** helps students and supervisors find common tools, methods and collaborators.
-- **Continuity:** keeps projects available after individual students move on.
+Keeping ExaGEO projects in one organisation makes it easier to see what others are working on, find and reuse code, and share tools and ideas across projects. It also means that useful code remains accessible to the community after individual students have finished their PhDs.
 
 ## How to join
 
-1. Send your GitHub username to the organisation owners (or ask your ExaGEO supervisor/coordinator) to request an invitation.
+1. Email your GitHub username to exageo-info@glasgow.ac.uk to request an invitation to the organisation.
 2. Accept the invitation sent to your GitHub email address.
 3. Once you are a member, you can add your repositories as described below.
 
@@ -25,11 +24,12 @@ Each repository should ideally have a README describing what it does, how to run
 
 ## How to add your own repository to the organisation
 
-To make a repository you own visible here, fork it into the organisation:
+ou can keep your original repository on your personal GitHub account and create a fork in the ExaGEO-DLA organisation so that your work is visible to the wider community.
 
 1. Open your repository on GitHub.
-2. Click **Fork** (top right), then choose **ExaGEO-DLA** as the owner under *Owner*.
-3. Give the fork a name and description, then click **Create fork**.
-4. Keep the fork up to date using **Sync fork** on the fork's page, or ask the owners to transfer your repository to the organisation instead.
+2. Click Fork (top right).
+3. Under Owner, select ExaGEO-DLA.
+4. Give the fork a name and description, then click Create fork.
+5. To incorporate changes from your original repository, use Sync fork on the organisation's copy.
 
-Note: the organisation must allow forking of the source repository, and you must be a member with permission to create repositories.
+Your original repository remains yours to manage, while the organisation's fork provides a shared copy of your work. Please add your main, active or completed projects rather than every small experiment or temporary script.
