@@ -22,7 +22,7 @@ Each repository should ideally have a README describing what it does, how to run
 
 ## How to add your own repository to the organisation
 
-ou can keep your original repository on your personal GitHub account and create a fork in the ExaGEO-DLA organisation so that your work is visible to the wider community.
+You can keep your original repository on your personal GitHub account and create a fork in the ExaGEO-DLA organisation so that your work is visible to the wider community.
 
 1. Open your repository on GitHub.
 2. Click Fork (top right).
