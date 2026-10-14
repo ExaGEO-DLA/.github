@@ -2,8 +2,6 @@
 
 # ExaGEO-DLA
 
-## About ExaGEO
-
 ExaGEO harnesses the potential of exascale computing to address global environmental challenges by linking advanced Earth system models with human impacts. Funded by UKRI’s Natural Environment Research Council (NERC), it brings together the University of Glasgow, EPCC at the University of Edinburgh and CEEDS at Lancaster University, alongside over 200 academic and industry experts. The programme will train around 80 PhD students in GPU-accelerated environmental modelling, large-scale Earth observation and Earth system applications. This GitHub organisation provides a shared space for code, tools and methods developed by the ExaGEO Doctoral Landscape Award (DLA) community, supporting collaboration and research reuse.
 
 ## Why keep all repositories in one place?
